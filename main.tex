@@ -1,0 +1,69 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%                 DOCUMENT SETTINGS                  %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[openany, 12pt]{report}
+\title{Manual de supervivencia de la FIC}
+\makeatletter
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%                    PACKAGES                        %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\usepackage{eurosym} % Símbolo de euro
+\usepackage{glossaries}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{listings}
+\usepackage{placeins}
+\usepackage{url}
+\usepackage[spanish]{babel}
+
+% Debugging packages
+% \usepackage{showframe}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%                      STYLES                        %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\usepackage[a4paper, left=2cm, right=2cm, top=2cm, bottom=2cm]{geometry}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.5em}
+\usepackage{styles/header}
+\usepackage{styles/boxes}
+\usepackage{styles/titles}
+\usepackage{styles/links}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%                  BEGIN  DOCUMENT                   %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{glossary/acronyms}
+\input{variables/colors}
+\input{variables/links}
+
+\makeglossaries
+
+\begin{document}
+    
+    \pagenumbering{gobble}
+    \input{titlepage/titlepage}
+
+    \pagenumbering{roman}
+    \tableofcontents
+    \newpage
+    
+    
+    % Chapters
+    \pagenumbering{arabic}
+    % \pagenumbering{gobble}
+    \input{content/udc}
+    \input{content/fic}
+    \input{content/asignaturas}
+    \input{content/horarios}
+    \input{content/eventos}
+
+    \printglossary
+\end{document}

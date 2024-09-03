@@ -1,0 +1,49 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%                       BOXES                        %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\ProvidesPackage{styles/boxes}
+
+\usepackage{fontawesome5}
+\usepackage{tcolorbox}
+
+\newtcolorbox{importantBox}{
+  colback=red!3!white, 
+  colframe=red!75!black,
+  fonttitle=\bfseries,
+  title= \faIcon{exclamation-circle} \quad ¡Importante!
+}
+
+\newtcolorbox{warningBox}{
+  colback=yellow!3!white, 
+  colframe=yellow!75!black,
+  fonttitle=\bfseries,
+  title= \faIcon{exclamation-triangle} \quad ¡Atención!
+}
+
+\newtcolorbox{infoBox}{
+  colback=blue!3!white, 
+  colframe=blue!75!black,
+  fonttitle=\bfseries,
+  title= \faIcon{info-circle} \quad Información adicional.
+}
+
+\newtcolorbox{exampleBox}{
+  colback=lime!3!white, 
+  colframe=lime!75!black,
+  fonttitle=\bfseries,
+  title= \faIcon{lightbulb} \quad Por ejemplo...
+}
+
+\newtcolorbox{curiosityBox}{
+  colback=cyan!3!white, 
+  colframe=cyan!75!black,
+  fonttitle=\bfseries,
+  title= \faIcon{question-circle} \quad ¿Sabías que...?
+}
+
+\newtcolorbox{rememberBox}{
+  colback=magenta!3!white, 
+  colframe=magenta!75!black,
+  fonttitle=\bfseries,
+  title= \faIcon{brain} \quad Recuerda...
+}

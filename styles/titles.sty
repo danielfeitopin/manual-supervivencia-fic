@@ -1,0 +1,12 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%                       TITLES                       %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\ProvidesPackage{styles/titles}
+
+\makeatletter
+\renewcommand{\@makechapterhead}[1]{
+  {\noindent\raggedright\normalfont % Alignment and font reset
+   \huge\bfseries \thechapter. #1\par\nobreak} % Formatting
+  \vspace{\baselineskip}
+}
+\makeatother
