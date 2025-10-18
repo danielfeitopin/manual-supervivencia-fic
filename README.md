@@ -13,6 +13,7 @@
 - [Manual de Supervivencia de la FIC](#manual-de-supervivencia-de-la-fic)
   - [Índice](#índice)
   - [Autores](#autores)
+  - [Licencia](#licencia)
 
 ## Autores
 
@@ -31,3 +32,10 @@ Documento desarrollado por dos estudiantes de la FIC:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&color=%230A66C2)](<https://www.linkedin.com/in/lua-rico/>)
 
 </div>
+
+## Licencia
+
+[![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+Este manual está licenciado bajo una 
+[Creative Commons Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
