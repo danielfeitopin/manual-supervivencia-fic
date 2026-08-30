@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![LaTeX](https://img.shields.io/badge/latex-black?logo=latex&logoColor=white&labelColor=grey&color=%23008080)](<https://www.python.org/> "LaTeX")
+[![Typst](https://img.shields.io/badge/typst-black?logo=typst&logoColor=white&labelColor=grey&color=%23239dad)](<https://typst.app/> "Typst")
 [![GitHub issues](https://img.shields.io/github/issues/danielfeitopin/manual-supervivencia-fic)](<https://github.com/danielfeitopin/manual-supervivencia-fic> "Issues")
 [![GitHub stars](https://img.shields.io/github/stars/danielfeitopin/manual-supervivencia-fic)](<https://github.com/danielfeitopin/manual-supervivencia-fic/stargazers> "Stars")
 
@@ -35,7 +35,11 @@ Documento desarrollado por dos estudiantes de la FIC:
 
 ## Licencia
 
-[![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
 Este manual está licenciado bajo una
 [Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+<div align="center">
+
+[![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+</div>
