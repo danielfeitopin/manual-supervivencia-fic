@@ -69,7 +69,7 @@ En el caso de que no se pueda encontrar una solución, es posible que algunas de
 
 === Visualización del horario asignado
 
-El resultado de la asignación de los grupos y horarios asignados puede consultarse en...
+El resultado de la asignación de los grupos y horarios asignados puede consultarse en #link("https://espazos.udc.es/")[Espazos UDC].
 
 #importantBox[
   Para cualquier *incidencia* (horario no asignado o asignatura no asignada en el horario), contactar con
@@ -79,16 +79,9 @@ El resultado de la asignación de los grupos y horarios asignados puede consulta
 
 Los horarios son tablas con una *columna* para cada día de la semana de *lunes a viernes* y con una *fila* para cada *intervalo de 30 minutos*. Para cada *asignatura* se indica su *grupo* y el *aula o laboratorio* en la que se imparte.
 
-// #figure(
-//   box(
-//     stroke: 1pt,
-//     image("figures/horarios/Horarios_Ejemplo.jpeg", width: 50%),
-//   ),
-// )
-
-// #infoBox[
-//   Las asignaturas de *color amarillo* (~#text(fill: colorTimetableTheory)[■]~) corresponden a *clases de teoría*, mientras que las asignaturas de *color azul* (~#text(fill: colorTimetablePractice)[■]~) corresponden a *clases de prácticas*.
-// ]
+#infoBox[
+  Las asignaturas de *color amarillo* (~#text(fill: rgb("f7d358"))[■]~) corresponden a *clases de teoría*, mientras que las asignaturas de *color azul* (~#text(fill: rgb("bbc3fc"))[■]~) corresponden a *clases de prácticas*.
+]
 
 #curiosityBox[
   Los estudiantes de primera vez suelen estar asignados al mismo grupo de prácticas (y mismo grupo de teoría) en todas las materias que cursan.
@@ -98,13 +91,15 @@ Los horarios son tablas con una *columna* para cada día de la semana de *lunes 
 
 Una vez realizada la asignación, es posible *cambiar de grupo docente* mediante dos procedimientos diferentes: la *permutación de grupos* y la *solicitud de cambio de grupo*.
 
-La *permutación de grupos* consiste en el intercambio de común acuerdo entre estudiantes *con la misma matrícula* pero asignados a diferentes grupos.
+La *permutación de grupos* consiste en el intercambio de común acuerdo entre estudiantes asignados a diferentes grupos. Las *condiciones* concretas se detallan durante el *plazo de solicitud*.
+
+La *solicitud de cambio de grupo* puede utilizarse para solicitar cambios en sus horarios de forma justificada. Esta solicitud sólo se puede realizar cuando concurra alguna de las circunstancias enumeradas en la
+#link("https://www.fic.udc.es/sites/default/files/adjuntos_noticias/normativa_cambio_grupo_fic.pdf")[*normativa de cambio de grupo*].
 
 Se realiza a través de un *formulario* que deberán cumplimentar recíprocamente los dos estudiantes implicados.
 
-La *solicitud de cambio de grupo* podrá utilizarse para solicitar cambios en sus horarios de forma justificada. Esta solicitud sólo se realizará cuando concurra alguna de las circunstancias enumeradas en la
-#link("https://www.fic.udc.es/sites/default/files/adjuntos_noticias/normativa_cambio_grupo_fic.pdf")[*normativa de cambio de grupo*].
-
-Los cambios de grupo se realizan en el mes de *septiembre*. Los plazos concretos se anuncian en la página web de la
+Los cambios de grupo se realizan en el mes de *septiembre*. Los *plazos* concretos se anuncian en la página web de la
 #link("https://www.fic.udc.es")[FIC].
+
+#importantBox[Los *cambios de horario que afecten al segundo cuatrimestre* deben ser solicitados también en *este plazo*.]
 
