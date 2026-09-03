@@ -13,7 +13,7 @@
   ),
   (
     key: "ECTS",
-    long: "European Credit Transfer and accumulation System",
+    long: "_European Credit Transfer and accumulation System_",
   ),
   (
     key: "EEES",
@@ -25,19 +25,19 @@
   ),
   (
     key: "GCED",
-    long: "Grao en Ciencia e Enxeñaría de Datos",
+    long: "Grado en Ciencia e Ingeniería de Datos",
   ),
   (
     key: "GEI",
-    long: "Grao en Enxeñaría Informática",
+    long: "Grado en Ingeniería Informática",
   ),  
   (
     key: "GIA",
-    long: "Grao en Intelixencia Artificial",
+    long: "Grado en Inteligencia Artificial",
   ),
   (
     key: "GPUL",
-    long: "Grupo de Programadores e Usuarios de Linux",
+    long: "Grupo de Programadores y Usuarios de Linux",
   ),
   (
     key: "PDI",
@@ -61,8 +61,8 @@
   ( key: "TUI",
     long: "Tarjeta Universitaria Inteligente"
   ),
-  ( key: "WIP",
-    long: "Work In Progress"
+    key: "WIP",
+    long: "_Work In Progress_"
   ),
 
 )

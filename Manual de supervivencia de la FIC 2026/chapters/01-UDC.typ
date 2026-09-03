@@ -5,7 +5,7 @@
 
 == La tarjeta universitaria
 
-La #link("https://www.udc.gal/es/tui/")[@TUI] acredita estudiantes, @PDI y @PTXAS como miembros de la comunidad universitaria. El proceso de obtención de la @TUI está detallado en la página #link("https://www.udc.gal/es/tui/")[web de la Universidade da Coruña (UDC)].
+La #link("https://www.udc.gal/es/tui/")[@TUI] acredita estudiantes, @PDI y @PTXAS como miembros de la comunidad universitaria. El proceso de obtención de la @TUI está detallado en la página #link("https://www.udc.gal/es/tui/")[web de la Universidad de A Coruña (UDC)].
 
 Además, con la @TUI es posible solicitar préstamos de libros de las bibliotecas de la UDC, utilizar algunos servicios tecnológicos y beneficiarse de gran variedad de #link("https://www.udc.gal/es/tui/guias_comerciais/")[descuentos].
 
