@@ -36,7 +36,7 @@ Es posible *obtener créditos* por actividades extracurriculares, cursos de idio
 
 === Restricciones de créditos
 
-Los créditos también resultan de *gran importancia* para la realización de *actividades obligatorias* como las prácticas en empresas o el @TFG.
+Los créditos también resultan de *gran importancia* para la realización de *actividades obligatorias*, como las prácticas en empresas de algunas titulaciones o materias optativas.
 
 === Requisitos de permanencia
 
@@ -85,7 +85,7 @@ Para cada asignatura de los últimos cursos anteriores es posible consultar el n
 El profesorado cuenta con horarios dedicados a atender a los estudiantes para resolver dudas que no se han resuelto en clase o para recibir atención más personalizada.
 
 Los *horarios y lugares de tutorías* de los profesores de la FIC pueden ser consultados en la
-#link("https://www.udc.es/es/centros_departamentos_servizos/centros/titorias/?codigo=614")[página de tutorías de la UDC]
+#link("https://www.udc.es/es/centros_departamentos_servizos/centros/titorias/?codigo=614")[página de tutorías de la UDC], la #link("https://pdi.udc.es/")[ficha del PDI]
 o en
 #link("https://espazos.udc.es/centers/614/tutorials")[Espazos UDC].
 
