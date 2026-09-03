@@ -47,20 +47,27 @@
     key: "PTXAS",
     long: "Personal Técnico, de Gestión y de Administración y Servicios",
   ),
-  (key: "SAPE",
-  long: "Servicio de Estudiantes"),
-  ( key: "SOA",
+  (
+    key: "SAPE",
+    long: "Servicio de Estudiantes"
+  ),
+  (
+    key: "SOA",
     long: "Servicio de Organización Académica"
   ),
-  ( key: "TFG",
+  (
+    key: "TFG",
     long: "Trabajo de Fin de Grado"
   ),
-  ( key: "TFM",
+  (
+    key: "TFM",
     long: "Trabajo de Fin de Máster"
   ),
-  ( key: "TUI",
+  (
+    key: "TUI",
     long: "Tarjeta Universitaria Inteligente"
   ),
+  (
     key: "WIP",
     long: "_Work In Progress_"
   ),

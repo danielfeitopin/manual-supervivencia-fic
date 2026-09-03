@@ -57,8 +57,6 @@ Para cada estudiante se buscará la mejor combinación de *horarios compatibles*
 
 Para el estudiantado que esté matriculado en *un solo curso*, el horario será *todo de mañana o todo de tarde*. Para el estudiantado que esté matriculado en asignaturas de *más de un curso*, es probable que no sea posible ubicarlas todas en la misma franja horaria, aunque siempre se respetará la *misma franja horaria para las asignaturas de un mismo curso*.
 
-
-
 #warningBox[
 La selección de preferencia *no garantiza* una franja horaria en la franja elegida.
 ]
@@ -93,10 +91,10 @@ Una vez realizada la asignación, es posible *cambiar de grupo docente* mediante
 
 La *permutación de grupos* consiste en el intercambio de común acuerdo entre estudiantes asignados a diferentes grupos. Las *condiciones* concretas se detallan durante el *plazo de solicitud*.
 
+Se realiza a través de un *formulario* que deberán cumplimentar recíprocamente los dos estudiantes implicados.
+
 La *solicitud de cambio de grupo* puede utilizarse para solicitar cambios en sus horarios de forma justificada. Esta solicitud sólo se puede realizar cuando concurra alguna de las circunstancias enumeradas en la
 #link("https://www.fic.udc.es/sites/default/files/adjuntos_noticias/normativa_cambio_grupo_fic.pdf")[*normativa de cambio de grupo*].
-
-Se realiza a través de un *formulario* que deberán cumplimentar recíprocamente los dos estudiantes implicados.
 
 Los cambios de grupo se realizan en el mes de *septiembre*. Los *plazos* concretos se anuncian en la página web de la
 #link("https://www.fic.udc.es")[FIC].

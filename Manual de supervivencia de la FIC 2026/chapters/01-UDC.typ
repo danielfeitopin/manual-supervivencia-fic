@@ -55,7 +55,6 @@ En *Servizos UDC* (https://servizos.udc.es/) es posible comprobar y modificar lo
 personales, cambiar la fotografía del perfil, cambiar la contraseña, obtener un certificado de
 vinculación con la UDC y acceder a otros sitios web de la UDC.
 
-
 === Espazos UDC
 
 En *Espazos UDC* (https://espazos.udc.es/) se puede ver el horario asignado de las

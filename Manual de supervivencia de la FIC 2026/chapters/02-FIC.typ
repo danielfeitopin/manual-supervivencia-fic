@@ -156,7 +156,6 @@ La *cafetería* está ubicada en la planta 1. Ofrece servicio de bebidas y comid
 
 - *Salón de Actos*: En este se realizan grandes eventos, como la jornada de bienvenida a la FIC para los estudiantes de primer curso, la presentación de empresas en la @FEPE, entregas de premios como los premios a mejor @TFG de la FIC o la ceremonia de graduación. Tiene capacidad para 520 personas.
 
-
 === Planta 1
 
 - *Decanato*: Se encuentra junto a la conserjería y delante de la cafetería. 

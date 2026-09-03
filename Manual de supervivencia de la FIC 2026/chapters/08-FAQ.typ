@@ -13,7 +13,7 @@
   - #link("https://www.fic.udc.es/es/tramites-administrativos")[Trámites administrativos]
   - #link("https://www.fic.udc.es/gl/administracion")[Horario y contacto]
     - #link("mailto:administracion.fic@udc.es")[administracion.fic\@udc.es]
-    
+
 - Servicio de Organización Académica de la UDC (@SOA:short)
   - #link("https://www.udc.gal/es/soa/xestion-academica/")[Documentación interesante]
   - #link("https://www.udc.gal/centros_departamentos_servizos/servizos_xerais/servizo_organizacion_academica/")[Funciones del SOA y contacto]
@@ -49,6 +49,7 @@
  - Oficina de Atención a la Diversidad de la UDC (#link("https://www.udc.gal/es/ADI/")[ADI])
  - Representante de Igualdad de la FIC
   - #link("mailto:vicedecanato.organizacion.academica.fic@udc.gal")[Vicedecanato de Organización Académica]
+
 
 == Becas, ayudas y premios
 
