@@ -18,13 +18,13 @@ Los másteres suelen publicar sus horarios en sus respectivas páginas web.
 
 Los horarios siguen la *nomenclatura* `c.ACRONIMO.xy`, donde:
 
-- `c` es un valor numérico que indica el curso de la asignatura.
-- `ACRONIMO` es un valor alfanumérico que corresponde al acrónimo, sigla o abreviatura de la asignatura.
+- `c` es un número que indica el curso de la asignatura.
+- `ACRONIMO` es el acrónimo, sigla o abreviatura de la asignatura.
 - `xy` es el código del grupo y está compuesto por uno o dos dígitos.
 
-Los *grupos de teoría* se identifican con *un único valor numérico* (`x`).
+Los *grupos de teoría* se identifican con *un único dígito* (`x`).
 
-Los *grupos de prácticas* se identifican con *dos valores numéricos* (`xy`): el primero (`x`) corresponde al grupo de teoría del que deriva el grupo de prácticas, el segundo (`y`) identifica el propio subgrupo de prácticas.
+Los *grupos de prácticas* se identifican con *dos dígito* (`xy`): el primero (`x`) corresponde al grupo de teoría del que deriva el grupo de prácticas, el segundo (`y`) identifica el propio subgrupo de prácticas.
 
 #exampleBox[
 `1.Cal.12` corresponde al grupo 2 de prácticas del grupo 1 de teoría de la asignatura de Cálculo en el primer curso.

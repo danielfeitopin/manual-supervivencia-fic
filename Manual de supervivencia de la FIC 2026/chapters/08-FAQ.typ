@@ -4,7 +4,7 @@
 
 ¿Tienes dudas? Aquí tienes un listado para saber a quién acudir en función del problema que tengas.
 
-#rememberBox[Para saber qué representante de estudiantes está en la comisión que te interesa, puedes consultar la #link("https://www.fic.udc.es/es/comisiones")[sección de comisiones de la FIC] y hablarle a esa persona por Teams buscando su nombre completo o por correo buscándolo en Outlook.]
+#rememberBox[Para saber qué representante de estudiantes está en la comisión que te interesa, puedes consultar la #link("https://www.fic.udc.es/es/comisiones")[sección de comisiones de la FIC], y hablarle a esa persona por Teams o por correo buscando su nombre completo.]
 
 == Matrícula y admisión
 

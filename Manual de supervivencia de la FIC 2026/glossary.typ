@@ -41,11 +41,11 @@
   ),
   (
     key: "PDI",
-    long: "Personal Docente Investigador",
+    long: "Personal Docente e Investigador",
   ),
   (
     key: "PTXAS",
-    long: "Personal Técnico, de Gestión, de Administración y de Servicios",
+    long: "Personal Técnico, de Gestión y de Administración y Servicios",
   ),
   (key: "SAPE",
   long: "Servicio de Estudiantes"),

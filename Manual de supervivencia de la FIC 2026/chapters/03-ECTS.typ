@@ -95,7 +95,7 @@ o en
 
 === Evaluación docente
 
-Al finalizar cada cuatrimestre, se podrán realizar unas *encuestas anónimas* para *valorar al profesorado* de cara a mejorar las clases y las asignaturas. Existe una encuesta por cada docente de las asignaturas en las que se está matriculado y debe llegarse a un *mínimo de encuestas* para que se tengan en cuenta. Estas encuestas tienen gran repercusión en la *reputación* del profesorado, por lo que es importante que se realicen de manera objetiva y sincera.
+Al finalizar cada cuatrimestre, se podrán realizar unas *encuestas anónimas* para *valorar al profesorado* de cara a mejorar las clases y las asignaturas. Existe una encuesta por cada docente de las asignaturas en las que se está matriculado, y debe llegarse a un *mínimo de encuestas* para que se tengan en cuenta. Estas encuestas tienen gran repercusión en la *reputación* del profesorado, por lo que es importante que se realicen de manera objetiva y sincera.
 
 === Evaluación por compensación
 
