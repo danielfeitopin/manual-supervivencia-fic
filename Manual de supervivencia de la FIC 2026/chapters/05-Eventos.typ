@@ -4,7 +4,7 @@
 
 == Primer día en la FIC
 
-Para el alumnado de primer curso de la FIC, se organiza una *jornada de bienvenida* el primer día de clase. En el salón de actos, el decano inaugura el curso y se imparten *charlas informativas*. Al acabar las charlas, el alumnado acompaña a sus *mentores*.
+Para el estudiantado de primer curso de la FIC, se organiza una *jornada de bienvenida* el primer día de clase. En el salón de actos, el decano inaugura el curso y se imparten *charlas informativas*. Al acabar las charlas, el estudiantado acompaña a sus *mentores*.
 
 #infoBox[
   Cada *mentor* está asignado a un *grupo de prácticas*.
@@ -22,9 +22,9 @@ Un día de septiembre, se celebran las *jornadas de bienvenida OLA UDC* en el Es
 
 == Feria de Prácticas y de Empleo de la FIC
 
-La *Feria de Prácticas y de Empleo de la FIC (@FEPE)* es un evento organizado por el Vicedecanato de Relaciones Institucionales en el cuál diversas empresas acuden a la FIC a darse a conocer y a hablar con los alumnos.
+La *Feria de Prácticas y de Empleo de la FIC (@FEPE)* es un evento organizado por el Vicedecanato de Relaciones Institucionales en el cuál diversas empresas acuden a la FIC a darse a conocer y a hablar con los estudiantes.
 
-Suele ser en abril y normalmente dura 2 o 3 días. Cada día a primera hora las empresas se presentan brevemente en el salón de actos. Cuando terminan, se abren los *_stands_* de las empresas en la planta 0 para que los alumnos puedan conocer mejor a las empresas. *Web*: https://fepe.fic.udc.es/
+Suele ser en abril y normalmente dura 2 o 3 días. Cada día a primera hora las empresas se presentan brevemente en el salón de actos. Cuando terminan, se abren los *puestos* de las empresas en la planta 0 para que los estudiantes puedan conocer mejor a las empresas. *Web*: https://fepe.fic.udc.es/
 
 #infoBox[
   La @FEPE es por las *mañanas*  y cada día hay *empresas diferentes*.

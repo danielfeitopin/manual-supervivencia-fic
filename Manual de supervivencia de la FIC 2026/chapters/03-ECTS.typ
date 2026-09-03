@@ -82,7 +82,7 @@ Para cada asignatura de los últimos cursos anteriores es posible consultar el n
 
 === Tutorías
 
-El profesorado cuenta con horarios dedicados a atender a los alumnos para resolver dudas que no se han resuelto en clase o para recibir atención más personalizada.
+El profesorado cuenta con horarios dedicados a atender a los estudiantes para resolver dudas que no se han resuelto en clase o para recibir atención más personalizada.
 
 Los *horarios y lugares de tutorías* de los profesores de la FIC pueden ser consultados en la
 #link("https://www.udc.es/es/centros_departamentos_servizos/centros/titorias/?codigo=614")[página de tutorías de la UDC]

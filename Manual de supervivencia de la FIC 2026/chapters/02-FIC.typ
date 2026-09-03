@@ -50,7 +50,7 @@ Los grados y algunos másteres disponen de secciones propias del tablón digital
 ]
 
 #warningBox[
-El acceso a cada tablón digital está restringido al alumnado del mismo estudio.
+El acceso a cada tablón digital está restringido al estudiantado del mismo estudio.
 ]
 
 === Redes sociales
@@ -152,7 +152,7 @@ La *cafetería* está ubicada en la planta 1. Ofrece servicio de bebidas y comid
 
 === Planta 0
 
-- *Zona de mesas*: Existen varias mesas con tomas eléctricas y sillas donde el alumnado puede trabajar o pasar el tiempo entre clases.
+- *Zona de mesas*: Existen varias mesas con tomas eléctricas y sillas donde el estudiantado puede trabajar o pasar el tiempo entre clases.
 
 - *Salón de Actos*: En este se realizan grandes eventos como la jornada de bienvenida a la FIC para los estudiantes de primer curso, la presentación de empresas en la @FEPE, entregas de premios como los premios a mejor @TFG de la FIC o la ceremonia de graduación. Tiene capacidad para 520 personas.
 
@@ -165,7 +165,7 @@ La *cafetería* está ubicada en la planta 1. Ofrece servicio de bebidas y comid
 
 === Planta 2
 
-- *Aula de Grados*: El aula de grados se utiliza principalmente para eventos tales como defensas de @TFG, @TFM o Tesis Doctoral. También se han organizado charlas para el alumnado en ella. Cuenta con capacidad para 45 personas. 
+- *Aula de Grados*: El aula de grados se utiliza principalmente para eventos tales como defensas de @TFG, @TFM o Tesis Doctoral. También se han organizado charlas para el estudiantado en ella. Cuenta con capacidad para 45 personas.
 
 #curiosityBox[
     Este aula es denominada oficialmente como “Aula de Graos Víctor Gulías”. Debe su nombre a #link("https://badalnovas.com/2024/01/28/in-memoriam-victor-manuel-gulias-fernandez-10o-aniversario-do-seu-falecemento/")[Víctor Manuel Gulías Fernández], fallecido en 2012. Por aquel entonces, era director del @CITIC, profesor titular de la FIC y vicedecano de relaciones institucionales.]
