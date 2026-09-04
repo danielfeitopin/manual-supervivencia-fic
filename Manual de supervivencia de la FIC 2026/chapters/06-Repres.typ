@@ -8,11 +8,11 @@ Existen distintos *órganos de gobierno* dentro de la universidad, desde los que
 Cada *órgano de gobierno* cuenta con determinadas *competencias* y es importante saber con quién se debe tratar en cada circunstancia. De la misma forma hay que tener cuidado de no confundir los cargos de cada órgano. Por ejemplo, no confundir el Rector de la Universidad con el Decano de una Facultad o el Director de una Escuela.
 ]
 
-Los *representantes* son miembros electos de la universidad en cada colectivo (estudiantes, @PDI, @PTXAS) que participan en la toma de decisiones en los órganos de gobierno de la universidad.
+Los *representantes* son miembros electos de la universidad en cada colectivo (estudiantes, @PDI, @PTXAS, etc.) que participan en la toma de decisiones en los órganos de gobierno de la universidad.
 
 #exampleBox[Los representantes de estudiantes son compañeros que defienden los derechos de los estudiantes.]
 
-#curiosityBox[Las *elecciones* a Junta de Centro se realizan cada año y las elecciones a Claustro y a Consejo de Departamento cada dos años. Entre los electos a Claustro se eligen a los representantes en Consejo de Gobierno. En el caso de los estudiantes, de los representantes en Junta de Centro se eligen a dos para formar parte del Consejo de Estudiantes. Puedes consultar más información sobre las elecciones (plazos, listas de miembros, normativa, etc.) en el #link("https://www.udc.gal/es/goberno/equipo_reitoral/secretaria/taboleiro-electronico-electoral/")[Tablón electrónico electoral].]
+#curiosityBox[Las *elecciones* a Junta de Centro y a Consejo de Departamento se realizan cada año, y las elecciones a Claustro cada dos años. Entre los electos a Claustro se eligen a los representantes en Consejo de Gobierno. En el caso de los estudiantes, de los representantes en Junta de Centro se eligen a dos para formar parte del Consejo de Estudiantes. Puedes consultar más información sobre las elecciones (plazos, censo, resultados y candidaturas electas, normativa, etc.) en el #link("https://www.udc.gal/es/goberno/equipo_reitoral/secretaria/taboleiro-electronico-electoral/")[Tablón electrónico electoral].]
 
 == Representantes de estudiantes en la FIC 
 

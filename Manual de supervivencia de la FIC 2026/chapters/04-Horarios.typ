@@ -18,21 +18,21 @@ Los másteres suelen publicar sus horarios en sus respectivas páginas web.
 
 Los horarios siguen la *nomenclatura* `c.ACRONIMO.xy`, donde:
 
-- `c` es un valor numérico que indica el curso de la asignatura.
-- `ACRONIMO` es un valor alfanumérico que corresponde al acrónimo, sigla o abreviatura de la asignatura.
+- `c` es un número que indica el curso de la asignatura.
+- `ACRONIMO` es el acrónimo, sigla o abreviatura de la asignatura.
 - `xy` es el código del grupo y está compuesto por uno o dos dígitos.
 
-Los *grupos de teoría* se identifican con *un único valor numérico* (`x`).
+Los *grupos de teoría* se identifican con *un único dígito* (`x`).
 
-Los *grupos de prácticas* se identifican con *dos valores numéricos* (`xy`): el primero (`x`) corresponde al grupo de teoría del que deriva el grupo de prácticas, el segundo (`y`) identifica el propio subgrupo de prácticas.
+Los *grupos de prácticas* se identifican con *dos dígitos* (`xy`): el primero (`x`) corresponde al grupo de teoría del que deriva el grupo de prácticas, el segundo (`y`) identifica el propio subgrupo de prácticas.
 
 #exampleBox[
 `1.Cal.12` corresponde al grupo 2 de prácticas del grupo 1 de teoría de la asignatura de Cálculo en el primer curso.
 ]
 
-== Asignación de los horarios del alumnado
+== Asignación de los horarios del estudiantado
 
-La *asignación de alumnos a grupos* la realiza el centro *antes del inicio de clases*. Este proceso se realiza de *forma secuencial* entre los estudiantes matriculados en un mismo estudio, siguiendo el *orden alfabético* de apellidos (comenzando según el *sorteo anual de letras de prioridad* en los procedimientos de admisión de la Xunta de Galicia) e intentando respetar, en la medida de lo posible, la *preferencia de franja horaria* (mañana o tarde) elegida por cada estudiante, si aplica.
+La *asignación de estudiantes a grupos* la realiza el centro *antes del inicio de clases*. Este proceso se realiza de *forma secuencial* entre los estudiantes matriculados en un mismo estudio, siguiendo el *orden alfabético* de apellidos (comenzando según el *sorteo anual de letras de prioridad* en los procedimientos de admisión de la Xunta de Galicia) e intentando respetar, en la medida de lo posible, la *preferencia de franja horaria* (mañana o tarde) elegida por cada estudiante, si aplica.
 
 #exampleBox[
 En el curso 2026/2027 la letra inicial elegida fue la `M` para la prioridad del primer apellido.
@@ -51,13 +51,11 @@ Primero debe seleccionarse el centro (Facultade de Informática) y luego acceder
 Algunos cursos o estudios no disponen de ambas franjas horarias. De forma general, los cursos de grado impares son por la mañana y los cursos pares de grado y los másteres son por la tarde.
 ]
 
-Los horarios se generarán *automáticamente* teniendo en cuenta varios factores, principalmente: los *apellidos*, las *preferencias* (mañana o tarde), y las combinaciones de *asignaturas* en las que el alumnado esté matriculado y las *plazas* disponibles en los grupos docentes.
+Los horarios se generarán *automáticamente* teniendo en cuenta varios factores, principalmente: los *apellidos*, las *preferencias* (mañana o tarde), las combinaciones de *asignaturas* en las que el estudiante está matriculado y las *plazas* disponibles en los grupos docentes.
 
 Para cada estudiante se buscará la mejor combinación de *horarios compatibles* entre todas las asignaturas de su matrícula, evitando solapamientos entre ellas, teniendo en cuenta preferencias y dando *prioridad a las asignaturas de los últimos cursos* en los que esté matriculado. La asignación dependerá de las plazas disponibles en los grupos docentes en el momento de realizar la asignación.
 
-Para el alumnado que esté matriculado en *un solo curso*, el horario será *todo de mañana o todo de tarde*. Para el alumnado que esté matriculado en asignaturas de *más de un curso*, es probable que no sea posible ubicarlas todas en la misma franja horaria, aunque siempre se respetará la *misma franja horaria para las asignaturas de un mismo curso*.
-
-
+Para el estudiantado que esté matriculado en *un solo curso*, el horario será *todo de mañana o todo de tarde*. Para el estudiantado que esté matriculado en asignaturas de *más de un curso*, es probable que no sea posible ubicarlas todas en la misma franja horaria, aunque siempre se respetará la *misma franja horaria para las asignaturas de un mismo curso*.
 
 #warningBox[
 La selección de preferencia *no garantiza* una franja horaria en la franja elegida.
@@ -93,10 +91,10 @@ Una vez realizada la asignación, es posible *cambiar de grupo docente* mediante
 
 La *permutación de grupos* consiste en el intercambio de común acuerdo entre estudiantes asignados a diferentes grupos. Las *condiciones* concretas se detallan durante el *plazo de solicitud*.
 
+Se realiza a través de un *formulario* que deberán cumplimentar recíprocamente los dos estudiantes implicados.
+
 La *solicitud de cambio de grupo* puede utilizarse para solicitar cambios en sus horarios de forma justificada. Esta solicitud sólo se puede realizar cuando concurra alguna de las circunstancias enumeradas en la
 #link("https://www.fic.udc.es/sites/default/files/adjuntos_noticias/normativa_cambio_grupo_fic.pdf")[*normativa de cambio de grupo*].
-
-Se realiza a través de un *formulario* que deberán cumplimentar recíprocamente los dos estudiantes implicados.
 
 Los cambios de grupo se realizan en el mes de *septiembre*. Los *plazos* concretos se anuncian en la página web de la
 #link("https://www.fic.udc.es")[FIC].

@@ -13,7 +13,7 @@
   ),
   (
     key: "ECTS",
-    long: "European Credit Transfer and accumulation System",
+    long: "_European Credit Transfer and accumulation System_",
   ),
   (
     key: "EEES",
@@ -37,32 +37,39 @@
   ),
   (
     key: "GPUL",
-    long: "Grupo de Programadores e Usuarios de Linux",
+    long: "Grupo de Programadores y Usuarios de Linux",
   ),
   (
     key: "PDI",
-    long: "Personal Docente Investigador",
+    long: "Personal Docente e Investigador",
   ),
   (
     key: "PTXAS",
-    long: "Personal Técnico, de Gestión, de Administración y de Servicios",
+    long: "Personal Técnico, de Xestión e de Administración e Servizos",
   ),
-  (key: "SAPE",
-  long: "Servicio de Estudiantes"),
-  ( key: "SOA",
+  (
+    key: "SAPE",
+    long: "Servicio de Estudiantes"
+  ),
+  (
+    key: "SOA",
     long: "Servicio de Organización Académica"
   ),
-  ( key: "TFG",
+  (
+    key: "TFG",
     long: "Trabajo de Fin de Grado"
   ),
-  ( key: "TFM",
+  (
+    key: "TFM",
     long: "Trabajo de Fin de Máster"
   ),
-  ( key: "TUI",
+  (
+    key: "TUI",
     long: "Tarjeta Universitaria Inteligente"
   ),
-  ( key: "WIP",
-    long: "Work In Progress"
+  (
+    key: "WIP",
+    long: "_Work In Progress_"
   ),
 
 )

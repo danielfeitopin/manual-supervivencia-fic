@@ -50,11 +50,11 @@ Los grados y algunos másteres disponen de secciones propias del tablón digital
 ]
 
 #warningBox[
-El acceso a cada tablón digital está restringido al alumnado del mismo estudio.
+El acceso a cada tablón digital está restringido al estudiantado del mismo estudio.
 ]
 
 === Redes sociales
-La FIC también publica información de interés en sus cuentas de #link("https://t.me/+LHa3QApmGskyNDFk")[#box(image("../components/icons/font-awesome/telegram-brands-solid-full.svg", width: 0.90em), baseline: 15%)Telegram] y #link("https://t.me/+LHa3QApmGskyNDFk")[#box(image("../components/icons/font-awesome/bluesky-brands-solid-full.svg", width: 0.90em), baseline: 15%)Bluesky]. Ocasionalmente sube contenido a su canal de #link("https://t.me/+LHa3QApmGskyNDFk")[#box(image("../components/icons/font-awesome/youtube-brands-solid-full.svg", width: 0.90em), baseline: 15%)YouTube] como eventos o transmisiones de las ceremonias de graduación.
+La FIC también publica información de interés en sus cuentas de #link("https://t.me/+LHa3QApmGskyNDFk")[#box(image("../components/icons/font-awesome/telegram-brands-solid-full.svg", width: 0.90em), baseline: 15%)Telegram] y #link("https://bsky.app/profile/fic-udc.bsky.social")[#box(image("../components/icons/font-awesome/bluesky-brands-solid-full.svg", width: 0.90em), baseline: 15%)Bluesky]. Ocasionalmente sube contenido a su canal de #link("https://www.youtube.com/channel/UC3uk5vkUEJUI_NuWrYP_UXw")[#box(image("../components/icons/font-awesome/youtube-brands-solid-full.svg", width: 0.90em), baseline: 15%)YouTube] como eventos o transmisiones de las ceremonias de graduación.
 
 == Espacios
 
@@ -85,11 +85,11 @@ En los *despachos* puede encontrarse al profesorado para ser consultado o realiz
 
 ==== Seminarios
 
-Los *seminarios* cuentan con espacios adaptados a la realización de otras actividades como celebración de reuniones, impartición de cursos o videoconferencias.
+Los *seminarios* cuentan con espacios adaptados a la realización de otras actividades, como celebración de reuniones, impartición de cursos o videoconferencias.
 
 ==== Laboratorios de investigación
 
-Son *laboratorios* donde desarrollan sus trabajos de *investigación* del @PDI del centro, los doctorandos en fase de elaboración de tesis y los contratados para proyectos de investigación subvencionados. Están ubicados en todas las plantas de la FIC.
+Son *laboratorios* donde desarrollan sus trabajos de *investigación* el @PDI del centro, los doctorandos en fase de elaboración de tesis y los contratados para proyectos de investigación subvencionados. Están ubicados en todas las plantas de la FIC.
 
 === Espacios de servicios
 
@@ -109,12 +109,12 @@ Junto a consejería hay un *buzón rojo* en el que se pueden depositar quejas, s
 
 === Administración y secretaría
 
-La *secretaría* de la FIC está situada en la planta 1. Es el lugar en que se realizan los *trámites*.
+La *secretaría* o *administración* de la FIC está situada en la planta 1. Es el lugar en que se realizan los *trámites*.
 
-*Horario*: De 08:30 a 14:00, de lunes a viernes.
+*Horario*: De 08:30 a 14:30, de lunes a viernes.
 
 #warningBox[
-Para la varios de los trámites se requiere contar con  #link("https://outlook.office365.com/book/UNIVERSIDADEDACORUA8@udcgal.onmicrosoft.com/")[*cita previa*].
+Para varios de los trámites se requiere contar con  #link("https://outlook.office365.com/book/UNIVERSIDADEDACORUA8@udcgal.onmicrosoft.com/")[*cita previa*].
 ]
 
 #infoBox[
@@ -123,7 +123,7 @@ Pueden consultarse los *horarios* de verano y festivos en la #link("https://www.
 
 === Biblioteca
 
-La *biblioteca* de la FIC se encuentra en la planta 1. Cuenta con una colección de aproximadamente 25.570 ejemplares que cubren las diversas áreas del conocimiento de la FIC en la que destaca una sección de títulos recomendados entre los que se encuentran las lecturas básicas de las asignaturas impartidas. También es posible consultar *revistas* y *memorias* de @TFG, @TFM o Tesis Doctoral.
+La *biblioteca* de la FIC se encuentra en la planta 1. Cuenta con una colección de aproximadamente 25.570 ejemplares que cubren las diversas áreas del conocimiento de la FIC. Esto incluye una sección de títulos recomendados, entre los que se encuentran las lecturas básicas de las asignaturas impartidas. También es posible consultar *revistas* y *memorias* de @TFG, @TFM o Tesis Doctoral.
 
 *Horario*: De 08:30 a 21:30, de lunes a viernes. 
 *Sitio web*: #link("https://www.udc.gal/biblioteca.fic/")
@@ -139,7 +139,7 @@ Pueden consultarse los *horarios* de verano y festivos en la #link("https://www.
 
 === Cafetería
 
-La *cafetería* está ubicada en la planta 1. Ofrece servicio de bebidas y comidas, incluyendo menú del día (el cual es publicado en #link("https://t.me/CafeteriaFIC")[#box(image("../components/icons/font-awesome/telegram-brands-solid-full.svg", width: 0.90em), baseline: 15%)*Telegram*]) por 7.30€ (precio de estudiante).
+La *cafetería* está ubicada en la planta 1. Ofrece servicio de bebidas y comidas, incluyendo menú del día (el cual es publicado en #link("https://t.me/CafeteriaFIC")[#box(image("../components/icons/font-awesome/telegram-brands-solid-full.svg", width: 0.90em), baseline: 15%)*Telegram*]) por 7,30€ (precio de estudiante).
 
 *Horario*: De 08:00 a 19:00, de lunes a viernes.
 *Carta*: #link("https://quecarta.com/cafeteria-fic-")
@@ -152,10 +152,9 @@ La *cafetería* está ubicada en la planta 1. Ofrece servicio de bebidas y comid
 
 === Planta 0
 
-- *Zona de mesas*: Existen varias mesas con tomas eléctricas y sillas donde el alumnado puede trabajar o pasar el tiempo entre clases.
+- *Zona de mesas*: Existen varias mesas con tomas eléctricas y sillas donde el estudiantado puede trabajar o pasar el tiempo entre clases.
 
-- *Salón de Actos*: En este se realizan grandes eventos como la jornada de bienvenida a la FIC para los estudiantes de primer curso, la presentación de empresas en la @FEPE, entregas de premios como los premios a mejor @TFG de la FIC o la ceremonia de graduación. Tiene capacidad para 520 personas.
-
+- *Salón de Actos*: En este se realizan grandes eventos, como la jornada de bienvenida a la FIC para los estudiantes de primer curso, la presentación de empresas en la @FEPE, entregas de premios como los premios a mejor @TFG de la FIC o la ceremonia de graduación. Tiene capacidad para 520 personas.
 
 === Planta 1
 
@@ -165,7 +164,7 @@ La *cafetería* está ubicada en la planta 1. Ofrece servicio de bebidas y comid
 
 === Planta 2
 
-- *Aula de Grados*: El aula de grados se utiliza principalmente para eventos tales como defensas de @TFG, @TFM o Tesis Doctoral. También se han organizado charlas para el alumnado en ella. Cuenta con capacidad para 45 personas. 
+- *Aula de Grados*: El aula de grados se utiliza principalmente para eventos tales como defensas de @TFG, @TFM o Tesis Doctoral. También se han organizado charlas para el estudiantado en ella. Cuenta con capacidad para 45 personas.
 
 #curiosityBox[
     Este aula es denominada oficialmente como “Aula de Graos Víctor Gulías”. Debe su nombre a #link("https://badalnovas.com/2024/01/28/in-memoriam-victor-manuel-gulias-fernandez-10o-aniversario-do-seu-falecemento/")[Víctor Manuel Gulías Fernández], fallecido en 2012. Por aquel entonces, era director del @CITIC, profesor titular de la FIC y vicedecano de relaciones institucionales.]

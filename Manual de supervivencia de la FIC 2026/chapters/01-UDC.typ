@@ -55,7 +55,6 @@ En *Servizos UDC* (https://servizos.udc.es/) es posible comprobar y modificar lo
 personales, cambiar la fotografía del perfil, cambiar la contraseña, obtener un certificado de
 vinculación con la UDC y acceder a otros sitios web de la UDC.
 
-
 === Espazos UDC
 
 En *Espazos UDC* (https://espazos.udc.es/) se puede ver el horario asignado de las
@@ -68,7 +67,7 @@ En la *Secretaría Virtual* (#link("https://www.udc.gal/estudantes/secretaria-vi
 === Campus Virtual
 
 El Campus Virtual (https://udconline.udc.gal/) es una plataforma en la que aparecen
-las distintas asignaturas en las que el alumnado está matriculado y a las que el profesorado sube las diapositivas, los apuntes y los enunciados de las prácticas y entregas.
+las distintas asignaturas en las que el estudiantado está matriculado y a las que el profesorado sube las diapositivas, los apuntes y los enunciados de las prácticas y entregas.
 
 === Portal de estudios
 

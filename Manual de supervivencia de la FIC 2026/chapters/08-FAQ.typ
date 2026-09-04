@@ -1,10 +1,10 @@
 #import "../components/prelude.typ": *
 
-= FAQ
+= Preguntas frecuentes
 
 ¿Tienes dudas? Aquí tienes un listado para saber a quién acudir en función del problema que tengas.
 
-#rememberBox[Para saber qué representante de estudiantes está en la comisión que te interesa, puedes consultar la #link("https://www.fic.udc.es/es/comisiones")[sección de comisiones de la FIC] y hablarle a esa persona por Teams buscando su nombre completo o por correo buscándolo en Outlook.]
+#rememberBox[Para saber qué representante de estudiantes está en la comisión que te interesa, puedes consultar la #link("https://www.fic.udc.es/es/comisiones")[sección de comisiones de la FIC], y hablarle a esa persona por Teams o por correo buscando su nombre completo.]
 
 == Matrícula y admisión
 
@@ -13,7 +13,7 @@
   - #link("https://www.fic.udc.es/es/tramites-administrativos")[Trámites administrativos]
   - #link("https://www.fic.udc.es/gl/administracion")[Horario y contacto]
     - #link("mailto:administracion.fic@udc.es")[administracion.fic\@udc.es]
-    
+
 - Servicio de Organización Académica de la UDC (@SOA:short)
   - #link("https://www.udc.gal/es/soa/xestion-academica/")[Documentación interesante]
   - #link("https://www.udc.gal/centros_departamentos_servizos/servizos_xerais/servizo_organizacion_academica/")[Funciones del SOA y contacto]
@@ -49,6 +49,7 @@
  - Oficina de Atención a la Diversidad de la UDC (#link("https://www.udc.gal/es/ADI/")[ADI])
  - Representante de Igualdad de la FIC
   - #link("mailto:vicedecanato.organizacion.academica.fic@udc.gal")[Vicedecanato de Organización Académica]
+
 
 == Becas, ayudas y premios
 

@@ -36,7 +36,7 @@ Es posible *obtener créditos* por actividades extracurriculares, cursos de idio
 
 === Restricciones de créditos
 
-Los créditos también resultan de *gran importancia* para la realización de *actividades obligatorias* como las prácticas en empresas o el @TFG.
+Los créditos también resultan de *gran importancia* para la realización de *actividades obligatorias*, como las prácticas en empresas de algunas titulaciones o materias optativas. También es un requisito tener todos los créditos excepto los del TFG para defenderlo.
 
 === Requisitos de permanencia
 
@@ -82,10 +82,10 @@ Para cada asignatura de los últimos cursos anteriores es posible consultar el n
 
 === Tutorías
 
-El profesorado cuenta con horarios dedicados a atender a los alumnos para resolver dudas que no se han resuelto en clase o para recibir atención más personalizada.
+El profesorado cuenta con horarios dedicados a atender a los estudiantes para resolver dudas que no se han resuelto en clase o para recibir atención más personalizada.
 
 Los *horarios y lugares de tutorías* de los profesores de la FIC pueden ser consultados en la
-#link("https://www.udc.es/es/centros_departamentos_servizos/centros/titorias/?codigo=614")[página de tutorías de la UDC]
+#link("https://www.udc.es/es/centros_departamentos_servizos/centros/titorias/?codigo=614")[página de tutorías de la UDC], la #link("https://pdi.udc.es/")[ficha del PDI]
 o en
 #link("https://espazos.udc.es/centers/614/tutorials")[Espazos UDC].
 
@@ -95,7 +95,7 @@ o en
 
 === Evaluación docente
 
-Al finalizar cada cuatrimestre, se podrán realizar unas *encuestas anónimas* para *valorar al profesorado* de cara a mejorar las clases y las asignaturas. Existe una encuesta por cada docente de las asignaturas en las que se está matriculado y debe llegarse a un *mínimo de encuestas* para que se tengan en cuenta. Estas encuestas tienen gran repercusión en la *reputación* del profesorado, por lo que es importante que se realicen de manera objetiva y sincera.
+Al finalizar cada cuatrimestre, se podrán realizar unas *encuestas anónimas* para *valorar al profesorado* de cara a mejorar las clases y las asignaturas. Existe una encuesta por cada docente de las asignaturas en las que se está matriculado, y debe llegarse a un *mínimo de encuestas* para que se tengan en cuenta. Estas encuestas tienen gran repercusión en la *reputación* del profesorado, por lo que es importante que se realicen de manera objetiva y sincera.
 
 === Evaluación por compensación
 
