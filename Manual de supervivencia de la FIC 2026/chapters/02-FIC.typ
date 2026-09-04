@@ -4,7 +4,7 @@
 
 == Cómo llegar
 
-La *Facultad de Informática de A Coruña (FIC)* está ubicada en el Campus de Elviña
+La *Facultade de Informática da Coruña (FIC)* está ubicada en el Campus de Elviña
 de la UDC. Su dirección es '_Camiño do Lagar de Castro, 6, 15008 A Coruña_'.
 
 === Llegada en coche

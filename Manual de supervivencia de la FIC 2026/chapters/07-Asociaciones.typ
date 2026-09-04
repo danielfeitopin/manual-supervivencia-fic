@@ -18,9 +18,9 @@ En su página *web* (https://dafic.org/) se pueden consultar los estatutos, las 
 
 == GPUL
 
-La asociación @GPUL se fundó en 1998 con el objetivo de *promover y defender la cultura libre* (software, hardware y conocimiento libre).
+La asociación @GPUL se fundó en 1998 con el objetivo de *promover y defender la cultura libre* (_software_, _hardware_ y conocimiento libre).
 
-Son conocidos por actividades como las _GPUL Schools_ (charlas sobre diversos ámbitos del Código Libre) o el HackUDC.
+Son conocidos por actividades como las _GPUL Schools_ (charlas sobre diversos ámbitos del _Software_ Libre) o el HackUDC.
 
 En su página *web* (https://gpul.org/) tienen toda la información disponible.
 

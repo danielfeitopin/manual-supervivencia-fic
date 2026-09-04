@@ -24,7 +24,7 @@ Los horarios siguen la *nomenclatura* `c.ACRONIMO.xy`, donde:
 
 Los *grupos de teoría* se identifican con *un único dígito* (`x`).
 
-Los *grupos de prácticas* se identifican con *dos dígito* (`xy`): el primero (`x`) corresponde al grupo de teoría del que deriva el grupo de prácticas, el segundo (`y`) identifica el propio subgrupo de prácticas.
+Los *grupos de prácticas* se identifican con *dos dígitos* (`xy`): el primero (`x`) corresponde al grupo de teoría del que deriva el grupo de prácticas, el segundo (`y`) identifica el propio subgrupo de prácticas.
 
 #exampleBox[
 `1.Cal.12` corresponde al grupo 2 de prácticas del grupo 1 de teoría de la asignatura de Cálculo en el primer curso.

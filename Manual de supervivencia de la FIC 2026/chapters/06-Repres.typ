@@ -12,7 +12,7 @@ Los *representantes* son miembros electos de la universidad en cada colectivo (e
 
 #exampleBox[Los representantes de estudiantes son compañeros que defienden los derechos de los estudiantes.]
 
-#curiosityBox[Las *elecciones* a Junta de Centro y a Consejo de Departamento se realizan cada año, y las elecciones a Claustro cada dos años. Entre los electos a Claustro se eligen a los representantes en Consejo de Gobierno. En el caso de los estudiantes, de los representantes en Junta de Centro se eligen a dos para formar parte del Consejo de Estudiantes. Puedes consultar más información sobre las elecciones (plazos, censo, normativa, etc.) en el #link("https://www.udc.gal/es/goberno/equipo_reitoral/secretaria/taboleiro-electronico-electoral/")[Tablón electrónico electoral].]
+#curiosityBox[Las *elecciones* a Junta de Centro y a Consejo de Departamento se realizan cada año, y las elecciones a Claustro cada dos años. Entre los electos a Claustro se eligen a los representantes en Consejo de Gobierno. En el caso de los estudiantes, de los representantes en Junta de Centro se eligen a dos para formar parte del Consejo de Estudiantes. Puedes consultar más información sobre las elecciones (plazos, censo, resultados y candidaturas electas, normativa, etc.) en el #link("https://www.udc.gal/es/goberno/equipo_reitoral/secretaria/taboleiro-electronico-electoral/")[Tablón electrónico electoral].]
 
 == Representantes de estudiantes en la FIC 
 

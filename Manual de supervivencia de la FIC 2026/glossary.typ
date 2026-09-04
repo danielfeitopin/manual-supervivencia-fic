@@ -25,15 +25,15 @@
   ),
   (
     key: "GCED",
-    long: "Grado en Ciencia e Ingeniería de Datos",
+    long: "Grao en Ciencia e Enxeñaría de Datos",
   ),
   (
     key: "GEI",
-    long: "Grado en Ingeniería Informática",
+    long: "Grao en Enxeñaría Informática",
   ),  
   (
     key: "GIA",
-    long: "Grado en Inteligencia Artificial",
+    long: "Grao en Intelixencia Artificial",
   ),
   (
     key: "GPUL",
@@ -45,7 +45,7 @@
   ),
   (
     key: "PTXAS",
-    long: "Personal Técnico, de Gestión y de Administración y Servicios",
+    long: "Personal Técnico, de Xestión e de Administración e Servizos",
   ),
   (
     key: "SAPE",

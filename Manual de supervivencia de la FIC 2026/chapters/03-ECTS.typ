@@ -36,7 +36,7 @@ Es posible *obtener créditos* por actividades extracurriculares, cursos de idio
 
 === Restricciones de créditos
 
-Los créditos también resultan de *gran importancia* para la realización de *actividades obligatorias*, como las prácticas en empresas de algunas titulaciones o materias optativas.
+Los créditos también resultan de *gran importancia* para la realización de *actividades obligatorias*, como las prácticas en empresas de algunas titulaciones o materias optativas. También es un requisito tener todos los créditos excepto los del TFG para defenderlo.
 
 === Requisitos de permanencia
 

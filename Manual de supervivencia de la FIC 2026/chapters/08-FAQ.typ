@@ -55,4 +55,4 @@
 
 - #link("https://www.udc.gal/es/sape/bolsas_axudas_premios/")[Servicio de Estudiantes de la UDC] (@SAPE:short)
 
-#curiosityBox[Puedes contribuir a mejorar este manual abriendo una incidencia en el #link("https://github.com/danielfeitopin/manual-supervivencia-fic")[repositorio de GitHub] con tus propuestas de mejora o corrección de erratas.]
+#curiosityBox[Puedes contribuir a mejorar este manual abriendo una _issue_ en el #link("https://github.com/danielfeitopin/manual-supervivencia-fic")[repositorio de GitHub] con tus propuestas de mejora o corrección de erratas.]
