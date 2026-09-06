@@ -13,7 +13,7 @@
   ),
   (
     key: "ECTS",
-    long: "_European Credit Transfer and accumulation System_",
+    long: "European Credit Transfer and accumulation System",
   ),
   (
     key: "EEES",

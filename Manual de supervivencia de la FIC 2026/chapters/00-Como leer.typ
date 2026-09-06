@@ -11,11 +11,11 @@ Los enlaces internos del documento aparecen en #text(fill: color_fic)[este color
 
 == Cuadros temáticos
 
-#importantBox[Información importante que conviene tener en cuenta.]
-#warningBox[Información relevante que conviene tener en cuenta.]
-#infoBox[Información adicional que conviene tener en cuenta.]
-#curiosityBox[Curiosidades y otros datos de interés.]
-#exampleBox[Ejemplo aclaratorio.]
+#importantBox[Información imprescindible para todo el alumnado.]
+#warningBox[Información que requiere especial atención.]
+#infoBox[Información complementaria al contenido.]
+#curiosityBox[Datos curiosos y de interés.]
+#exampleBox[Ejemplos aclaratorios.]
 #rememberBox[Datos que conviene recordar.]
 
 = Licencia

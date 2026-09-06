@@ -4,12 +4,12 @@
 
 == Créditos
 
-La UDC sigue el sistema *@ECTS*.
+La UDC sigue el sistema _*@ECTS:long*_ (*@ECTS*).
 
 #curiosityBox[
     El sistema @ECTS forma parte del Plan Bolonia y es utilizado por las universidades europeas para convalidar asignaturas y *cuantificar el trabajo relativo al estudiante* que trabaja bajo los grados del @EEES.]
 
-Un *crédito* suele representar un *número determinado de horas* de trabajo del estudiante, incluyendo tanto las horas de clase como el tiempo dedicado al estudio y la realización de tareas y proyectos fuera del aula. La correspondencia entre asignaturas y créditos varía en función de la carga de trabajo que se espera del estudiante.
+Un *crédito* representa la dedicación estimada del estudiante, incluyendo tanto las horas de clase como el tiempo dedicado al estudio y la realización de tareas y proyectos fuera del aula.
 
 En general, los planes de estudio establecen un *número mínimo de créditos* que el estudiante debe completar para obtener su título.
 
@@ -45,15 +45,15 @@ Para poder *continuar los estudios* en la UDC se requiere un *rendimiento mínim
 - Alcanzar *12 créditos* @ECTS en el *primer año*.
 - Alcanzar *60 créditos* @ECTS *cada tres cursos académicos*.
 
-#warningBox[
+#importantBox[
   En el caso de no cumplir con el mínimo de créditos tras el primer curso se puede solicitar la permanencia mediante una *instancia al decano* entregada en administración. En caso favorable, será obligatorio aprobar un mínimo de *36 créditos* @ECTS en el siguiente curso académico.
 ]
 
-#infoBox[
+#warningBox[
   Las cantidades de créditos indicados corresponden a una matrícula a tiempo completo. En el caso de una matrícula a tiempo parcial correspondería la *mitad* de cada cantidad.
 ]
 
-#importantBox[
+#infoBox[
   Todas las condiciones, procedimientos y excepciones están recogidas en la
   #link("https://www.udc.es/gl/normativa/academica/")[*normativa* de gestión académica].
   Se recomienda encarecidamente su consulta.
@@ -65,7 +65,7 @@ Para poder *continuar los estudios* en la UDC se requiere un *rendimiento mínim
 
 Las
 #link("https://www.fic.udc.es/es/guias-docentes")[*guías docentes*]
-recogen la información sobre las asignaturas de los grados y másteres. Esta información incluye al profesorado, los contenidos, la metodología de evaluación y una breve descripción de la asignatura.
+recogen la información sobre las asignaturas de los grados y másteres. Esta información una breve descripción de la asignatura, el profesorado que la imparte, los contenidos, la metodología de evaluación y la bibliografía recomendada.
 
 #curiosityBox[
   Las guías docentes de un curso son aprobadas a finales del curso académico anterior, por lo que pueden ser consultadas antes de realizar la matrícula.
@@ -73,7 +73,7 @@ recogen la información sobre las asignaturas de los grados y másteres. Esta in
 
 === Resultados
 
-Para cada asignatura de los últimos cursos anteriores es posible consultar el número total de *aprobados* (~#text(fill: resultPassed)[■]~), *suspensos* (~#text(fill: resultFailed)[■]~) y *no presentados* (~#text(fill: resultNotPresented)[■]~) en el
+Para cada asignatura se pueden consultar el número total de *aprobados* (~#text(fill: resultPassed)[■]~), *suspensos* (~#text(fill: resultFailed)[■]~) y *no presentados* (~#text(fill: resultNotPresented)[■]~) de los últimos cursos académicos a través del
 #link("https://estudos.udc.es/es/degrees")[portal de estudios].
 
 #figure(

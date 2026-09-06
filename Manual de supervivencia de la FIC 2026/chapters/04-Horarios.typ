@@ -22,9 +22,7 @@ Los horarios siguen la *nomenclatura* `c.ACRONIMO.xy`, donde:
 - `ACRONIMO` es el acrónimo, sigla o abreviatura de la asignatura.
 - `xy` es el código del grupo y está compuesto por uno o dos dígitos.
 
-Los *grupos de teoría* se identifican con *un único dígito* (`x`).
-
-Los *grupos de prácticas* se identifican con *dos dígitos* (`xy`): el primero (`x`) corresponde al grupo de teoría del que deriva el grupo de prácticas, el segundo (`y`) identifica el propio subgrupo de prácticas.
+Los *grupos de teoría* se identifican con *un único dígito* (`x`). Los *grupos de prácticas* se identifican con *dos dígitos* (`xy`): el primero (`x`) corresponde al grupo de teoría del que deriva el grupo de prácticas, el segundo (`y`) identifica el propio subgrupo de prácticas.
 
 #exampleBox[
 `1.Cal.12` corresponde al grupo 2 de prácticas del grupo 1 de teoría de la asignatura de Cálculo en el primer curso.
@@ -48,7 +46,7 @@ Primero debe seleccionarse el centro (Facultade de Informática) y luego acceder
 #pagebreak()
 
 #curiosityBox[
-Algunos cursos o estudios no disponen de ambas franjas horarias. De forma general, los cursos de grado impares son por la mañana y los cursos pares de grado y los másteres son por la tarde.
+Algunos cursos o estudios no disponen de ambas franjas horarias. De forma general, los cursos de grado impares son por la mañana y los cursos de grado pares y los másteres son por la tarde.
 ]
 
 Los horarios se generarán *automáticamente* teniendo en cuenta varios factores, principalmente: los *apellidos*, las *preferencias* (mañana o tarde), las combinaciones de *asignaturas* en las que el estudiante está matriculado y las *plazas* disponibles en los grupos docentes.
@@ -82,7 +80,7 @@ Los horarios son tablas con una *columna* para cada día de la semana de *lunes 
 ]
 
 #curiosityBox[
-  Los estudiantes de primera vez suelen estar asignados al mismo grupo de prácticas (y mismo grupo de teoría) en todas las materias que cursan.
+  Los estudiantes de primera matrícula suelen estar asignados al mismo grupo de prácticas (y mismo grupo de teoría) en todas las materias que cursan.
 ]
 
 == Cambio de grupo

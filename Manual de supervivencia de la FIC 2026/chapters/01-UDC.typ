@@ -5,7 +5,7 @@
 
 == La tarjeta universitaria
 
-La #link("https://www.udc.gal/es/tui/")[@TUI] acredita estudiantes, @PDI y @PTXAS como miembros de la comunidad universitaria. El proceso de obtención de la @TUI está detallado en la página #link("https://www.udc.gal/es/tui/")[web de la Universidade da Coruña (UDC)].
+La #link("https://www.udc.gal/es/tui/")[@TUI] acredita a estudiantes, @PDI y @PTXAS como miembros de la comunidad universitaria. El proceso de obtención de la @TUI está detallado en la página #link("https://www.udc.gal/es/tui/")[web de la Universidade da Coruña (UDC)].
 
 Además, con la @TUI es posible solicitar préstamos de libros de las bibliotecas de la UDC, utilizar algunos servicios tecnológicos y beneficiarse de gran variedad de #link("https://www.udc.gal/es/tui/guias_comerciais/")[descuentos].
 
@@ -57,17 +57,15 @@ vinculación con la UDC y acceder a otros sitios web de la UDC.
 
 === Espazos UDC
 
-En *Espazos UDC* (https://espazos.udc.es/) se puede ver el horario asignado de las
-asignaturas, consultar las disponibilidades de los espacios del centro, ver los horarios de tutorías del profesorado y realizar reservas de espacios y equipo.
+En *Espazos UDC* (https://espazos.udc.es/) se puede ver el horario asignado de las asignaturas, consultar la disponibilidad de los espacios del centro, ver los horarios de tutorías del profesorado y realizar reservas de espacios y equipo.
 
 === Secretaría Virtual
 
-En la *Secretaría Virtual* (#link("https://www.udc.gal/estudantes/secretaria-virtual/")[https://www.udc.gal/estudantes/secretaria-virtual/]) se pueden realizarse diferentes trámites como la matrícula en los estudios, la consulta del expediente y la comprobación del estado de liquidaciones.
+En la *Secretaría Virtual* (#link("https://www.udc.gal/estudantes/secretaria-virtual/")[https://www.udc.gal/estudantes/secretaria-virtual/]) pueden realizarse diferentes trámites como los de matriculación, consulta de expediente y comprobación del estado de liquidaciones.
 
 === Campus Virtual
 
-El Campus Virtual (https://udconline.udc.gal/) es una plataforma en la que aparecen
-las distintas asignaturas en las que el estudiantado está matriculado y a las que el profesorado sube las diapositivas, los apuntes y los enunciados de las prácticas y entregas.
+El Campus Virtual (https://udconline.udc.gal/) es una plataforma donde aparecen las asignaturas en las que el estudiantado está matriculado y donde el profesorado sube las diapositivas, los apuntes y los enunciados de las prácticas y entregas.
 
 === Portal de estudios
 

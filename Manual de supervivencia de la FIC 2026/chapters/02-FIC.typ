@@ -68,7 +68,7 @@ Algunos espacios cuentan con *identificadores* con una *letra* que indica el *ti
 
 ==== Aulas
 
-Las *aulas* están ubicadas en las plantas 2 y 3 de la FIC. Estas aulas son en las que se imparten las *clases teóricas* y algunas *clases de prácticas*. Existen cuatro aulas grandes (con 120 plazas) y otras de menor tamaño.
+Las *aulas* están ubicadas en las plantas 2 y 3 de la FIC. En estas se imparten las *clases teóricas* y algunas *clases de prácticas*. Existen cuatro aulas grandes (con 120 plazas) y otras de menor tamaño.
 
 ==== Laboratorios de prácticas
 
@@ -113,7 +113,7 @@ La *secretaría* o *administración* de la FIC está situada en la planta 1. Es 
 
 *Horario*: De 08:30 a 14:30, de lunes a viernes.
 
-#warningBox[
+#importantBox[
 Para varios de los trámites se requiere contar con  #link("https://outlook.office365.com/book/UNIVERSIDADEDACORUA8@udcgal.onmicrosoft.com/")[*cita previa*].
 ]
 
@@ -156,11 +156,13 @@ La *cafetería* está ubicada en la planta 1. Ofrece servicio de bebidas y comid
 
 - *Salón de Actos*: En este se realizan grandes eventos, como la jornada de bienvenida a la FIC para los estudiantes de primer curso, la presentación de empresas en la @FEPE, entregas de premios como los premios a mejor @TFG de la FIC o la ceremonia de graduación. Tiene capacidad para 520 personas.
 
+- *Taquillas*: Están situadas junto al cartel informativo de la Planta 0.
+
 === Planta 1
 
 - *Decanato*: Se encuentra junto a la conserjería y delante de la cafetería. 
 
-- *Taquillas*: Están situadas junto a la entrada de la biblioteca. Funcionan con llave y cierre de moneda de 1€ o 50 céntimos.
+- *Taquillas*: Están situadas junto a la entrada de la biblioteca.
 
 === Planta 2
 
